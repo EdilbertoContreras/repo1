@@ -5,5 +5,7 @@ git add: agraga todo los cambios
 git commit: crea un commit  
 touch: crea un archichivo  
 ls: muestra una lsta  
-git log: impecciona el istorial  
+git log: impecciona el istoria    
+
+si se habra guardado esta vaina 
 
